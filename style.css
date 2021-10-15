@@ -136,7 +136,7 @@ h5{
    }
  }
 
- @media (min-width:768px) {
+ @media (min-width:767px) {
    img#optionalstuffshow {
      display: none;
    }
