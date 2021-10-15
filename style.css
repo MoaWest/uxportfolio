@@ -130,13 +130,13 @@ h5{
    margin-bottom: 5%;
 }
 
-@media (max-width:629px) {
+@media (max-width:768px) {
    img#optionalstuff {
      display: none;
    }
  }
 
- @media (min-width:629px) {
+ @media (min-width:768px) {
    img#optionalstuffshow {
      display: none;
    }
