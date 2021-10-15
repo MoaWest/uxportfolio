@@ -130,6 +130,18 @@ h5{
    margin-bottom: 5%;
 }
 
+@media (max-width:629px) {
+   img#optionalstuff {
+     display: none;
+   }
+ }
+
+ @media (min-width:629px) {
+   img#optionalstuffshow {
+     display: none;
+   }
+ }
+
 .shadow{
     box-shadow: 10px 10px 15px rgb(190, 188, 188);
  }
